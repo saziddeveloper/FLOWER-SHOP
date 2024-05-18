@@ -90,7 +90,7 @@ header {
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: bottom;
-    border-radius: 50% 50% 0 0 ;
+    border-radius: 400px 400px 0 0 ;
 }
 #flower-2 {
     width: 325px;
@@ -100,7 +100,7 @@ header {
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 50% 50% 0 0 ;
+    border-radius: 400px 400px 0 0 ;
 }
 #flower-3 {
     width: 325px;
@@ -110,7 +110,7 @@ header {
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: bottom;
-    border-radius: 50% 50% 0 0 ;
+    border-radius: 400px 400px 0 0 ;
 }
 #flower-name {
     display: flex;
