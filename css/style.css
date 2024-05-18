@@ -32,7 +32,7 @@ body {
 
 header {
     display: flex;
-    background-color: #e5547310;
+    background-color: #e5547315;
     padding: 40px 150px 0 150px;
     align-items: center;
 }
@@ -45,7 +45,7 @@ header {
 }  
 #header-details {
     font-size: 18px;
-    color: #272727;
+    color: #27272760;
 }
 
 /*---------------------------------------
@@ -62,7 +62,66 @@ header {
         Start Section-1 CSS
 ------------------------------------*/
 
-
+#section-1 {
+    padding: 50px 150px 150px 150px;
+}
+#section-1-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #272727;
+}
+#section-1-details {
+    color: #27272760;
+}
+#section-1-bar {
+    width: 550px;
+    text-align: center;
+    margin: 80px auto;
+}
+#groupOfFlower {
+    display: flex;
+    gap: 24px;
+}
+#flower-1 {
+    width: 325px;
+    height: 385px;
+    background-color: #a7216215;
+    background-image: url('/images/pngwing\ 6.png');
+    background-size: 210px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 50% 50% 0 0 ;
+}
+#flower-2 {
+    width: 325px;
+    height: 385px;
+    background-color: #0597A015;
+    background-image: url('/images/pngwing\ 5.png');
+    background-size: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50% 50% 0 0 ;
+}
+#flower-3 {
+    width: 325px;
+    height: 385px;
+    background-color: #477D1115;
+    background-image: url('/images/pngwing\ 7.png');
+    background-size: 210px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 50% 50% 0 0 ;
+}
+#flower-name {
+    display: flex;
+    justify-content:space-around
+}
+#flower-name p {
+    font-size: 18px;
+    font-weight: 700;
+    color: #272727;
+    text-decoration: underline;
+}
 
 /*------------------------------------
         Start Section-1 CSS 
