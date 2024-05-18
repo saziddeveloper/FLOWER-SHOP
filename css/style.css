@@ -165,8 +165,142 @@ header {
         Start Section-3 CSS 
 ------------------------------------*/
 
-
+#section-3 {
+    display: flex;
+    gap: 34px;
+    align-items: center;
+    text-align: center;
+    background-color: #e5547305;
+    padding: 80px 200px;
+}
+#section-3 h1{
+    color: #272727;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#section-3 h1 span{
+    color: #E55473;
+}
+#section-3 p{
+    color: #27272760;
+    font-weight: 500;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
 
 /*-----------------------------------
         End Section-3 CSS 
+------------------------------------*/
+
+
+
+
+
+
+/*-----------------------------------
+        Start Section-4 CSS 
+------------------------------------*/
+
+#section-4 {
+    margin: 150px 150px 80px 150px;
+}
+#album-info {
+    text-align: center;
+    width: 550px;
+    margin: 0 auto;
+}
+#album-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin: 0;
+}
+#album-details {
+    color: #27272760;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+#album-photo {
+    display: flex;
+    gap: 24px;
+}
+#album-photo img {
+    width: 245px;
+}
+
+/* banner css */
+
+#banner {
+    width: 1052px;
+    height: 448px;
+    margin: 0 auto;
+    background-image: url('/images/Rectangle\ 9.png');
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#banner-info {
+    text-align: center;
+}
+#banner-title {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+#banner-description {
+    color: #27272760;
+    margin-bottom: 40px;
+}
+#banner input {
+    padding: 20px 400px 20px 10px;
+    border: 0;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+
+/*-----------------------------------
+        End Section-4 CSS 
+------------------------------------*/
+
+
+
+
+
+
+
+/*-----------------------------------
+        Start Footer Section CSS 
+------------------------------------*/
+
+footer {
+    background-color: #111010;
+    height: 250px;
+    padding-top: 35px;
+}
+footer article {
+    margin: 0 auto;
+    width: 550px;
+}
+#footer-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+#footer-title span {
+    color: #E55473;
+}
+#footer-description {
+    color: #ffffff8f;
+    text-align: center;
+}
+#copyright {
+    color: #ffffff40;
+    text-align: center;
+}
+
+/*-----------------------------------
+        End Footer Section CSS 
 ------------------------------------*/
