@@ -86,7 +86,7 @@ header {
     width: 325px;
     height: 385px;
     background-color: #a7216215;
-    background-image: url('./images/pngwing-6.png');
+    background-image: url('../images/pngwing\ 6.png');
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -96,7 +96,7 @@ header {
     width: 325px;
     height: 385px;
     background-color: #0597A015;
-    background-image: url('images/pngwing\ 5.png');
+    background-image: url('../images/pngwing\ 5.png');
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: center;
@@ -106,7 +106,7 @@ header {
     width: 325px;
     height: 385px;
     background-color: #477D1115;
-    background-image: url('images/pngwing\ 7.png');
+    background-image: url('../images/pngwing\ 7.png');
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -234,7 +234,7 @@ header {
     width: 1052px;
     height: 448px;
     margin: 0 auto;
-    background: url("images/Rectangle\ 9.png");
+    background: url("../images/Rectangle\ 9.png");
     margin-top: 80px;
     display: flex;
     justify-content: center;
