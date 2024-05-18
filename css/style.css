@@ -63,7 +63,7 @@ header {
 ------------------------------------*/
 
 #section-1 {
-    padding: 50px 150px 150px 150px;
+    padding: 50px 150px 0 150px;
 }
 #section-1-title {
     font-weight: 700;
@@ -124,8 +124,9 @@ header {
 }
 
 /*------------------------------------
-        Start Section-1 CSS 
+        End Section-1 CSS 
 ------------------------------------*/
+
 
 
 
@@ -136,8 +137,36 @@ header {
         Start Section-2 CSS
 -----------------------------------*/
 
+#section-2 {
+    padding: 50px 150px;
+    background-color: #27272705;
+    margin: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+    text-align: center;
+}
+#section-2 p {
+    color: #27272780;
+    font-weight: 700;
+}
+
+/*-----------------------------------
+        End Section-2 CSS 
+------------------------------------*/
+
+
+
+
+
 
 
 /*-----------------------------------
-        Start Section-2 CSS 
+        Start Section-3 CSS 
+------------------------------------*/
+
+
+
+/*-----------------------------------
+        End Section-3 CSS 
 ------------------------------------*/
